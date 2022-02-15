@@ -5,6 +5,8 @@
     "build": "next build"
   },
   "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "@truffle/contract": "^4.4.8",
     "bulma": "^0.9.3",
     "next": "^12.0.10",
     "react": "^17.0.2",
